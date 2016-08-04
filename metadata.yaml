@@ -1,0 +1,26 @@
+_repo: The-Journal-of-Abnormal-Psychology-Volume-10_1226
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: Psychology
+gutenberg_issued: '1998-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1226'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Social psychology -- Periodicals'
+- !lcsh 'Psychology -- Periodicals'
+- !lcsh 'Psychology, Pathological -- Periodicals'
+- GITenberg
+title: The Journal of Abnormal Psychology, Volume 10
+url: http://www.gutenberg.org/ebooks/1226
